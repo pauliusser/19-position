@@ -36,7 +36,7 @@ h1 {
 }
 .page-wrapper {
 	width: 100%;
-	padding: 0 100px;
+	/* padding: 0 100px; */
 	box-sizing: border-box;
 	padding-top: 50px;
 }
@@ -133,7 +133,7 @@ main h2 {
 		display: none;
 	}
 	.page-wrapper {
-		padding: 0 10%;
+		/* padding: 0 10%; */
 		padding-top: 50px;
 	}
 }
@@ -142,7 +142,7 @@ main h2 {
 		padding: 0 20px;
 	}
 	.page-wrapper {
-		padding: 0;
+		/* padding: 0; */
 		padding-top: 50px;
 	}
 }
